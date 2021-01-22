@@ -15,3 +15,4 @@ Most of the time, I'm focused on building upon open source web technology but al
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Dart](https://img.shields.io/badge/Dart%20-%23007ACC.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%20-%23007ACC.svg?&style=for-the-badge&logo=Flutter&logoColor=darkblue)
