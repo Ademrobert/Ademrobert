@@ -1,6 +1,6 @@
 ### Hello World
-I'm Adem
-Most of the time, I'm focused on building upon open source web technology but also love: automation, writing, presenting and mentoring.
+
+I'm Adem. Most of the time, I'm focused on building upon open source web technologies. I'm very interested in automation, and I like being able to combine what I've learned for writing, presenting, and offering mentorship to others.
 
 <a>![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
