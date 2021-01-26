@@ -14,3 +14,4 @@ I'm Adem. Most of the time, I'm focused on building upon open source web technol
 ![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![C#](https://img.shields.io/badge/-C#%20Pi-C51A4A?style=for-the-badge&logo=C#)
