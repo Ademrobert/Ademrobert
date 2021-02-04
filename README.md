@@ -15,4 +15,4 @@ I'm Adem. Most of the time, I'm focused on building upon open source web technol
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ademrobert&count_private=true"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademrobert&show_icons=true&text_color=daf7dc&bg_color=151515)
