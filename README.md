@@ -14,5 +14,6 @@ I'm Adem. Most of the time, I'm focused on building upon open source web technol
 ![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Tensorflow](https://img.shields.io/badge/TENSORFLOW%20-orange.svg?&style=for-the-badge&logo=TENSORFLOW&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademrobert&show_icons=true&text_color=daf7dc&bg_color=151515)
