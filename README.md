@@ -23,14 +23,14 @@ I am currenty in two organazations witch are <a href="https://github.com/Zone-Of
 
 <details>
 <summary>
-  More stuff about me
+  More information about me!
 </summary>
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love coding, investing, and most of I love good people!
 
-#### What is CoderOne?
+I'm alaways trying to help out people.
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+My favorite programming language is JavaScript.
 
