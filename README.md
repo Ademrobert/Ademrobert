@@ -34,3 +34,6 @@ I'm alaways trying to help out people.
 
 My favorite programming language is JavaScript.
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AdemOttoman)
+
