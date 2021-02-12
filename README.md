@@ -38,5 +38,5 @@ My favorite programming language is JavaScript.
 This is a famuse I am ↓↓↓
 
 ㅤ
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AdemOttoman)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AdemOttoman)
 
