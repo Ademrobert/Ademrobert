@@ -32,6 +32,9 @@ I'm alaways trying to help out people.
 
 My favorite programming language is JavaScript.
 
+What programming languages I want to learn?
+I wish to learn ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) in the near future.
+
 
 This is a famuse I am ↓↓↓
 
