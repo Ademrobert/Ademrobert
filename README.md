@@ -26,7 +26,10 @@ I am currenty in two organazations witch are <a href="https://github.com/Zone-Of
 
 <br >
 
-I love coding, investing, and most of I love good people!
+### What do I like?
+
+I like to invest, code and solve real world problems.I love to meet new people and I like events.
+
 
 I'm alaways trying to help out people.
 
@@ -34,6 +37,8 @@ My favorite programming language is JavaScript.
 
 What programming languages I want to learn?
 I wish to learn ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) in the near future.
+
+
 
 
 This is a famuse I am ↓↓↓
