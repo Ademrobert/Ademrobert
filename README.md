@@ -2,7 +2,7 @@
 
 I'm Adem. Most of the time, I'm focused on building upon open source web technologies. I'm very interested in automation, and I like being able to combine what I've learned.
 
-I am currenty in two organazations witch are <a href="https://github.com/Zone-Of-War">Zone Of War</a> and <a href="https://github.com/Urapolku-fi">Urapolku</a>.
+I am currenty in multiple organazations witch are <a href="https://github.com/Zone-Of-War">Zone Of War</a>, <a href="https://github.com/Crypto-gram">Crypto-Gram</a> and <a href="https://github.com/Urapolku-fi">Urapolku</a>.
 
 <a>![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
