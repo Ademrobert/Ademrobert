@@ -2,6 +2,8 @@
 
 I'm Adem. Most of the time, I'm focused on building upon open source web technologies. I'm very interested in automation, and I like being able to combine what I've learned.
 
+I am Currently learning about Product/project managment trying to get in to the field of Product/project Managment.
+ 
 I am currenty in multiple organazations witch are <a href="https://github.com/Zone-Of-War">Zone Of War</a>, <a href="https://github.com/Crypto-gram">Crypto-Gram</a>, <a href="https://github.com/KidsPowerKids">KidsPowerKids</a> and <a href="https://github.com/Urapolku-fi">Urapolku</a>.
 
 <a>![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)</a>
